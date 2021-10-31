@@ -1,0 +1,11 @@
+[package]
+name = "vmmouse"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+bindgen = "0.59.1"
+
+[[bin]]
+name = "vmmouse"
+
