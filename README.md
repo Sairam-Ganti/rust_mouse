@@ -1,2 +1,2 @@
-# rust_mouse
-Rust Mouse driver for ALKP project VTech 2021
+# Mouse Driver in Rust
+Developing a Linux Driver for a Virtual Machine Mouse in Rust
